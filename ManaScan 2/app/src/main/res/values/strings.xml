@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ManaScan</string>
+    <string name="scan_title">Scan a Card</string>
+    <string name="scan_hint">Line up the card name in the frame</string>
+    <string name="capture_button">Capture</string>
+    <string name="manual_search_hint">Or type a card name</string>
+    <string name="camera_permission_rationale">ManaScan needs camera access to scan card names.</string>
+    <string name="camera_permission_denied">Camera permission denied. You can still search cards manually.</string>
+    <string name="grant_permission">Grant permission</string>
+    <string name="no_match_found">No card found. Try manual search or rescan.</string>
+    <string name="looking_up">Looking up card…</string>
+    <string name="attribution">Card data and images © Scryfall / Wizards of the Coast</string>
+</resources>
